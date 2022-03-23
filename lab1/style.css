@@ -1,0 +1,30 @@
+.h-xl {
+    color: #585858;
+    font-family: 'Lato';
+    margin: 0 auto;
+    text-align: center;
+
+}
+.li-xs,
+.p-xs {
+    color: #868686;
+    font-family: 'Poppins';
+    margin: 10px 0;
+}
+.p-xs {
+    background-color: #e4b0b07e;
+}
+.li-xs {
+    background-color: #d2e75e8e;
+}
+.la-github {
+    position: relative;
+    font-size: 32px;
+    color: #585858;
+}
+.p-md {
+    color: #585858;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-size: 32px;
+}
