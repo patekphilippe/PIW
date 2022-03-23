@@ -1,0 +1,48 @@
+.todo {
+    text-decoration: none;
+    color: #585858;
+    cursor: pointer;
+    background-color: #e0e9677a;
+    display: flex;
+    margin: 10px 0;
+    justify-content: space-between;
+    padding: 5px;
+    border-radius: 5px;
+}
+.toDoContainer {
+    display: flex;
+    
+}
+.toDoList {
+    padding: 0;
+}
+
+.todo-el::marker {
+    content: "";
+    padding: 0;
+}
+
+.grey {
+    text-decoration: line-through; 
+    color: #c4c4c4;
+}
+
+.toDoButton {
+    background-color: #5389ec;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: "Poppins";
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.toDoInput {
+    font-family: "Poppins";
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.x-btn {
+    cursor: pointer;
+}
